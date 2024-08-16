@@ -1,6 +1,6 @@
-# AI-Powered Essay Analysis
+# RAG with local Ollama
 
-This project demonstrates how to use LlamaIndex and Ollama to analyze essays using AI. It includes a Python script that reads an essay, indexes it, and answers questions about its content.
+This project demonstrates how to use LlamaIndex and Ollama to perform RAG. It includes a Python script that reads an essay, indexes it, and answers questions about its content. Doesn't expose it as an API yet.
 
 ## Prerequisites
 
